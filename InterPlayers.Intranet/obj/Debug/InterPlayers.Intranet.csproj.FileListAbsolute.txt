@@ -1,0 +1,4 @@
+C:\source\InterPlayers.Intranet\InterPlayers.Intranet\bin\Debug\InterPlayers.Intranet.pdb
+C:\source\InterPlayers.Intranet\InterPlayers.Intranet\obj\Debug\InterPlayers.Intranet.csproj.CoreCompileInputs.cache
+C:\source\InterPlayers.Intranet\InterPlayers.Intranet\obj\Debug\InterPlayers.Intranet.dll
+C:\source\InterPlayers.Intranet\InterPlayers.Intranet\obj\Debug\InterPlayers.Intranet.pdb

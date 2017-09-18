@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="b3f619ac-90e0-4a2a-8d9e-6ebe7e2f2b3f" 
+        solutionId="b3f619ac-90e0-4a2a-8d9e-6ebe7e2f2b3f" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="InterPlayers.Intranet"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="be234718-22c6-41e5-ab99-a2d37c5eae84" />
+  </features>
+</package>

@@ -1,0 +1,51 @@
+.card{
+    margin: 10px 0px;
+}
+
+.card-header {
+    padding: 0.55rem 1.10rem;
+    margin-bottom: 0;
+    background-color: rgb(0, 117, 159);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    color: #FFF;
+    font-weight: 600;
+}
+.card.border-light.mb-3{
+    border-color: #EBEBEB !important;
+}
+
+.card-body{
+    padding: 0.8rem    
+}
+
+.container-fluid{
+    margin-top: 20px;    
+}
+
+
+.nav-link {
+    display: block;
+    padding: 0.1rem 0.2rem;
+}
+
+.alert-secondary {
+    color: #464a4e;
+    background-color: #f4f7ff;
+    border-color: #eceef3;
+}
+
+a.collapsed {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.card-header a {
+    color: #00759f !important;
+    background-color: inherit !important;
+    text-decoration: none !important;
+}
+
+.accordion .card .card-header{
+    background-color: #f9f9f9;
+    color: #00759f;    
+}
