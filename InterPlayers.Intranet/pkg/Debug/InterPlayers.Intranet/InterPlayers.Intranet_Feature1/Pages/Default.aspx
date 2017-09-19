@@ -78,6 +78,7 @@
                                 <hr>
                                 <div class="row">
                                     <div class="col-md-12">
+                                        <img src="../Images/Clipboard01.jpg" width="575px" />
                                         <div id="accordion" class="accordion" role="tablist">
                                             
                                         </div>                              
@@ -91,7 +92,7 @@
                             <div class="card border-light mb-3" style="max-width: 20rem;">
                                 <div class="card-header">KPI Geral</div>
                                 <div class="card-body">
-                                    <canvas id="myChart" width="auto" height="120"></canvas>
+                                    <canvas id="myChart" width="auto" height="120" style="cursor:pointer" onclick="window.location = 'https://pharmalink.sharepoint.com/sites/devsharepoint/KPI/Forms/AllItems.aspx?viewpath=%2Fsites%2Fdevsharepoint%2FKPI%2FForms%2FAllItems.aspx'"></canvas>
                                 </div>
                             </div>
                         </div> 
@@ -106,7 +107,8 @@
                         <div class="card border-light mb-3" style="max-width: 20rem;">
                             <div class="card-header">Workflows</div>
                             <div class="card-body">
-                                <ul class="nav flex-column">
+                                <img src="../Images/thumbnail_under-con.jpg" width="250px"/>
+                                <%--<ul class="nav flex-column">
                                     <li class="nav-item">
                                         <a class="nav-link active" href="#">
                                             <i class="fa fa-cogs" aria-hidden="true"></i>
@@ -125,7 +127,7 @@
                                             Aquisição equipamento
                                         </a>
                                     </li>                                      
-                                </ul>
+                                </ul>--%>
                             </div>
                         </div>                 
                     </div>

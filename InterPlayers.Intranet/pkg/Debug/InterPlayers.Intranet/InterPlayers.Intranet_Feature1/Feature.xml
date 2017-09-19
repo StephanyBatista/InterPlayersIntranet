@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="SharePoint Add-in Feature" Id="be234718-22c6-41e5-ab99-a2d37c5eae84" Scope="Web" Title="InterPlayers.Intranet Feature1" Version="1.0.0.0">
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="SharePoint Add-in Feature" Id="be234718-22c6-41e5-ab99-a2d37c5eae84" Scope="Web" Title="InterPlayers.Intranet Feature1" Version="1.0.0.2">
   <ElementManifests>
     <ElementManifest Location="Pages\Elements.xml" />
     <ElementFile Location="Pages\Default.aspx" />
@@ -27,6 +27,8 @@
     <ElementFile Location="Content\js\bootstrap.min.js" />
     <ElementManifest Location="Images\Elements.xml" />
     <ElementFile Location="Images\AppIcon.png" />
+    <ElementFile Location="Images\Clipboard01.jpg" />
+    <ElementFile Location="Images\thumbnail_under-con.jpg" />
   </ElementManifests>
   <UpgradeActions>
     <VersionRange>

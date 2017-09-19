@@ -63,6 +63,8 @@
     <Content Include="Content\img\logo-interplayers.png" />
     <Content Include="Content\js\bootstrap.js" />
     <Content Include="Content\js\bootstrap.min.js" />
+    <Content Include="Images\Clipboard01.jpg" />
+    <Content Include="Images\thumbnail_under-con.jpg" />
     <Content Include="Pages\Elements.xml" />
     <Content Include="Pages\Default.aspx" />
   </ItemGroup>
