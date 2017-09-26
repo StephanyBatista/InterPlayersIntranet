@@ -11,7 +11,7 @@ function prepareLinksList(linksItems) {
         var id = item.get_item('ID');
         var title = item.get_item('Title');
         var url = item.get_item('URL');
-        var tipo = item.get_item('Tipo');
+        var tipo = item.get_item('Area');
 
         populateLinks({ id: id, title: title, url: url, tipo: tipo });
     }
@@ -23,14 +23,14 @@ function populateLinks(item) {
         $('#biblioteca-ul')
             .append(
                 '<li class="nav-item">'+
-                    '<a class="nav-link" href="' + item.url.get_url() + '">' + item.title + '</a>'+
+                    '<a class="nav-link" target="_blank" href="' + item.url.get_url() + '">' + item.title + '</a>'+
                 '</li>'
         );
     else
         $('#corporativo-ul')
             .append(
                 '<li class="nav-item">' +
-                    '<a class="nav-link" href="' + item.url.get_url() + '">' + item.title + '</a>' +
+                    '<a class="nav-link" target="_blank" href="' + item.url.get_url() + '">' + item.title + '</a>' +
                 '</li>'
             );
 }

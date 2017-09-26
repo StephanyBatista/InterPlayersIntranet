@@ -92,7 +92,8 @@
                             <div class="card border-light mb-3" style="max-width: 20rem;">
                                 <div class="card-header">KPI Geral</div>
                                 <div class="card-body">
-                                    <canvas id="myChart" width="auto" height="120" style="cursor:pointer" onclick="window.location = 'https://pharmalink.sharepoint.com/sites/devsharepoint/KPI/Forms/AllItems.aspx?viewpath=%2Fsites%2Fdevsharepoint%2FKPI%2FForms%2FAllItems.aspx'"></canvas>
+                                    <canvas id="myChart" width="auto" height="120" style="cursor:pointer" 
+                                        onclick="window.open('https://pharmalink.sharepoint.com/sites/GIP/KPI/Forms/AllItems.aspx')"></canvas>
                                 </div>
                             </div>
                         </div> 
