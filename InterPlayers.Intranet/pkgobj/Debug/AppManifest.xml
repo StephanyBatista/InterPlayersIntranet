@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--Published:70EDFC97-B41D-43C5-B751-7C00AD999804-->
 <!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
-<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" Name="InterPlayersIntranet" ProductID="{b16c50f3-6fd6-435d-b277-f16921fcd072}" Version="1.0.0.3" SharePointMinVersion="16.0.0.0">
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" Name="InterPlayersIntranet" ProductID="{b16c50f3-6fd6-435d-b277-f16921fcd072}" Version="1.0.0.4" SharePointMinVersion="16.0.0.0">
   <Properties>
     <Title>InterPlayers.Intranet</Title>
     <StartPage>~appWebUrl/Pages/Default.aspx?{StandardTokens}</StartPage>

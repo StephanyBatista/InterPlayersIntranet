@@ -1,1 +1,1 @@
-C:\source\InterPlayers.Intranet\InterPlayers.Intranet\bin\Debug\app.publish\1.0.0.3\InterPlayers.Intranet.app
+C:\source\InterPlayers.Intranet\InterPlayers.Intranet\bin\Debug\app.publish\1.0.0.4\InterPlayers.Intranet.app

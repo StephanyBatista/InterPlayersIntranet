@@ -78,7 +78,7 @@
                                 <hr>
                                 <div class="row">
                                     <div class="col-md-12">
-                                        <img src="../Images/Clipboard01.jpg" width="575px" />
+                                        <img src="https://pharmalink.sharepoint.com/sites/GIP/BibliotecaGIP/Documentos/comunicacao_logo.jpg" width="575px" />
                                         <div id="accordion" class="accordion" role="tablist">
                                             
                                         </div>                              
